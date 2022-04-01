@@ -24,10 +24,10 @@ module.exports = {
     // we want to force semicolons
     "semi": ["error", "always",],
     // we want to force commas
-    "comma-dangle": ["error", 2,],
+    // "comma-dangle": ["error", 2,],
     // we use 2 spaces to indent our code
     "indent": ["error", 2,],
     // we want to avoid extraneous spaces
-    "no-multi-spaces": ["error", 2,],
+    "no-multi-spaces": ["error",],
   },
 };
