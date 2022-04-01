@@ -1,5 +1,17 @@
 /* eslint-disable react/react-in-jsx-scope */
-import { AspectRatio, Button, Divider, Heading, HStack, Image, Stack, Text, useColorMode, useColorModeValue, VStack } from "@chakra-ui/react";
+import { 
+  AspectRatio, 
+  Button, 
+  Divider, 
+  Heading, 
+  HStack, 
+  Image, 
+  Stack, 
+  Text, 
+  useColorMode, 
+  useColorModeValue, 
+  VStack, 
+} from "@chakra-ui/react";
 
 const Cart = () => {
   const { toggleColorMode } = useColorMode();
